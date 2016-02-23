@@ -1,6 +1,12 @@
 # Rogero.Autofac.Helpers
 A simple library that provides a few extensions to Autofac.
 
+## Install
+```
+Install-Package Rogero.Autofac.Helpers
+```
+[https://www.nuget.org/packages/Rogero.Autofac.Helpers/](https://www.nuget.org/packages/Rogero.Autofac.Helpers/)
+
 ## Helpers
 
 ##### Register self
